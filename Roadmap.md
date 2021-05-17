@@ -13,11 +13,13 @@ Event on explaination on various platforms and contests
 
 - Worklow
 
-  
+###   Codeathone
+
+------------ETE-----------------
 
 ### Arrays
 
-#### 05 June 2021
+#### 05 July 2021
 
 [Resources](https://yangshun.github.io/tech-interview-handbook/algorithms/array)
 
