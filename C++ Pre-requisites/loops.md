@@ -45,7 +45,9 @@ while (**test_expression**)
 }
 ```
 **Flow Diagram**:
+
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/php-while-loop.jpg)
+
 **do while loop**
 
 In do while loops also the loop execution is terminated on the basis of test condition. The main difference between do while loop and while loop is in do while loop the condition is tested at the end of loop body, i.e do while loop is exit controlled whereas the other two loops are entry controlled loops.  
