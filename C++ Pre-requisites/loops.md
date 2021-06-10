@@ -25,7 +25,9 @@ for (initialization expr; test expr; update expr)
 }
 ```
 Flow Diagram for 'for' loop
+
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/loops.png)
+
 **While Loop**
 
 While studying  **for loop**  we have seen that the number of iterations is known beforehand, i.e. the number of times the loop body is needed to be executed is known to us. while loops are used in situations where we do not know the exact number of iterations of loop beforehand. The loop execution is terminated on the basis of test condition.
@@ -67,7 +69,9 @@ do
 **Note**: Notice the semi – colon(“;”) in the end of loop.
 
 **Flow Diagram**:
+
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/php-do-while.jpg)
+
 **Important Points:**
 
 -   Use for loop when number of iterations is known beforehand, i.e. the number of times the loop body is needed to be executed is known.
