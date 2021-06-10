@@ -53,17 +53,20 @@ C++ does not allow punctuation characters such as @, $, and % within identifiers
 
 Here are some examples of acceptable identifiers −
 
-`mohd       zara    abc   move_name  a_123
-myname50   _temp   j     a23b9      retVal`
+```
+mohd       zara    abc   move_name  a_123
+myname50   _temp   j     a23b9      retVal
+```
 
 ---
 
 # C++ Keywords
-These are reserved words, which must not be used as constant or variable or any other identifier names.
+These are reserved words, which must not be used as constant or variable or any other identifier names.  
+[Here](https://www.learncpp.com/cpp-tutorial/keywords-and-naming-identifiers/comment-page-2/) is a list of all the C++ keywords.
 
-For example:
+Some of them are:
 
-![C++ Keywords](https://cdn.educba.com/academy/wp-content/uploads/2019/11/C-Keywords-1.1.png)
+![C++ Keywords](https://2.bp.blogspot.com/-AJgOlezZIMw/W_j30-pZXxI/AAAAAAAAAZ4/DDZO0Kkrx-wnmpghHUciWLdfCDPUebCXQCLcBGAs/s1600/keywords1.jpg)
 
 ---
 # Whitespace in C++
