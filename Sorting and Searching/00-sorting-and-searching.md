@@ -4,7 +4,14 @@ Sorting Algorithms are methods of reorganizing a large number of items into some
 These algorithms take an input list, processes it (i.e, performs some operations on it) and produce the sorted list.
 
 The most common example we experience every day is sorting clothes or other items on an e-commerce website either by lowest-price to highest, or list by popularity, or some other order.
-
+This week, we'll be covering the following sorting algorithms: 
+* [Start Here]()
+* [Selection Sort](https://github.com/randomizemuj/DSA-Series/blob/main/week-1/02-selection-sort.md)
+* [Bubble Sort](https://github.com/randomizemuj/DSA-Series/blob/main/week-1/03-bubble-sort.md)
+* [Insertion Sort](https://github.com/randomizemuj/DSA-Series/blob/main/week-1/04-insertion-sort.md)
+* [Merge Sort](https://github.com/randomizemuj/DSA-Series/blob/main/week-1/05-merge-sort.md)
+* [Quick Sort](https://github.com/randomizemuj/DSA-Series/blob/main/week-1/06-quick-sort.md)
+* [Heap Sort](https://github.com/randomizemuj/DSA-Series/blob/main/week-1/07-heap-sort.md)
 
 ---
 # Searching
