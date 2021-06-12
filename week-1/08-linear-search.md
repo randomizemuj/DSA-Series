@@ -7,9 +7,9 @@
 
 
 To do a linear search :
-    * Start from the leftmost element of arr[] and one by one compare x with each element of arr[]
-    * If x matches with an element, return the index.
-    * If x doesn’t match with any of elements, return -1.
+ * Start from the leftmost element of arr[] and one by one compare x with each element of arr[]
+ * If x matches with an element, return the index.
+ * If x doesn’t match with any of elements, return -1.
 
 ---
 **Input:**
@@ -57,3 +57,4 @@ Item found at location: 4
 
 ---
 > For more about linear search, visit: [GeeksForGeeks](https://www.geeksforgeeks.org/linear-search/), [TutorialsPoint](https://www.tutorialspoint.com/Linear-Search)
+> Practice [here](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/)
