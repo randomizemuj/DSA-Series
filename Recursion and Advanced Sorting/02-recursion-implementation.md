@@ -65,6 +65,4 @@ In case of iterations, we take number of iterations to count the time complexity
 Space complexity is counted as what amount of extra space is required for a module to execute. In case of iterations, the compiler hardly requires any extra space. The compiler keeps updating the values of variables used in the iterations. But in case of recursion, the system needs to store activation record each time a recursive call is made. Hence, it is considered that space complexity of recursive function may go higher than that of a function with iteration.
 
 ---
-> [Practice problems](https://www.codechef.com/tags/problems/recursion) on recursive functions.
-
-> You can practice problems on recursion [here](https://www.geeksforgeeks.org/recursion-practice-problems-solutions/).
+> Practice problems on recursive functions [here](https://www.geeksforgeeks.org/recursion-practice-problems-solutions/) and [here](https://www.codechef.com/tags/problems/recursion).
