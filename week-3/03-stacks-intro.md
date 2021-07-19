@@ -27,12 +27,15 @@ At all times, we maintain a pointer to the last PUSHed data on the stack. As thi
 ## Implementation: 
 There are two ways to implement a stack: 
 
-*   Using array
- *  Pros: Easy to implement. Memory is saved as pointers are not involved. 
- *  Cons: It is not dynamic. It doesn’t grow and shrink depending on needs at runtime.
-*   Using linked list
- *  Pros: The linked list implementation of stack can grow and shrink according to the needs at runtime. 
- *  Cons: Requires extra memory due to involvement of pointers.
+* Using array
+
+  * Pros: Easy to implement. Memory is saved as pointers are not involved. 
+  * Cons: It is not dynamic. It doesn’t grow and shrink depending on needs at runtime.
+ 
+* Using linked list
+
+  * Pros: The linked list implementation of stack can grow and shrink according to the needs at runtime. 
+  * Cons: Requires extra memory due to involvement of pointers.
 
 ---
 
