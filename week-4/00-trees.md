@@ -4,3 +4,4 @@ In a non-linear data structure, data elements are attached in hierarchically man
 * [Intro to Binary Trees](01-binary-trees-intro.md)
 * [Types of Binary trees and their implementation](02-binary-trees-types.md)
 * [Binary Search Tree](03-binary-search-tree.md)
+ 
