@@ -1,5 +1,5 @@
 
-#Graph
+# Graph
 
 A graph can be defined as group of vertices and edges that are used to connect these vertices. A graph can be seen as a cyclic tree, where the vertices (Nodes) maintain any complex relationship among them instead of having parent child relationship.
 
@@ -1032,4 +1032,8 @@ Stop when we reach the k clusters.
 
 Approach
 
+<<<<<<< HEAD
 One of the approaches that can be used to obtain clustering is to compute a minimum spanning tree. The minimum spanning tree can be simply calculated by dropping the k-1 most heavily weighted edge from the graph.
+=======
+One of the approaches that can be used to obtain clustering is to compute a minimum spanning tree. The minimum spanning tree can be simply calculated by dropping the k-1 most heavily weighted edge from the graph.
+>>>>>>> 12acb17102afdd9197c4c7738204eccf3da01aa5

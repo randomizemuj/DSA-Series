@@ -1,4 +1,5 @@
-#Advanced Algorithms on Trees
+# Advanced Algorithms on Trees
+
 BST Basic Operations
 
 The basic operations that can be performed on a binary search tree data structure, are the following −
@@ -844,4 +845,8 @@ A left rotation is performed by making B the new root node of the subtree. A bec
 
 ![Balanced AVL Tree](https://lh6.googleusercontent.com/BvsHYMdCCVJmpnbD3nYQtjBJNfNabHPZIAo3eKmjvUubKW3YZ0FtNnBxU9npU48HjDQ25htuheo2uAkU32h0Qi99QDn2cIMsYkhX_U6HXOQNX8gIfX3ag9uuLaxxxomT-FiwmK9x)
 
+<<<<<<< HEAD
 The tree is now balanced.
+=======
+The tree is now balanced.
+>>>>>>> 12acb17102afdd9197c4c7738204eccf3da01aa5
