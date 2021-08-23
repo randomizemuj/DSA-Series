@@ -54,7 +54,7 @@ Codeathon
 [Week 7](week-7)
   * Hashmaps
   * Priority Queues
-  * Special CP algorithms
+  * CP tips and techniques.
 
 ## 29 August
 Codeathon
