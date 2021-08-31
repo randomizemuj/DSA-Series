@@ -10,3 +10,7 @@
 1. [Tabulation vs Memoizatation](https://www.geeksforgeeks.org/tabulation-vs-memoizatation/)
 2. [Optimal Substructure Property](https://www.geeksforgeeks.org/dynamic-programming-set-2-optimal-substructure-property/)
 3. [Overlapping Subproblems Property](https://www.geeksforgeeks.org/dynamic-programming-set-1/)
+
+---
+
+Practice questions on DP [here](https://leetcode.com/tag/dynamic-programming/)
