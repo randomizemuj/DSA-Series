@@ -6,7 +6,7 @@
 
 ### Our main methodology is to assign a value to each mask (and, therefore, to each subset) and thus calculate the values for new masks using values of the already computed masks. Usually our main target is to calculate value/solution for the complete set i.e., for mask 11111111. Normally, to find the value for a subset X we remove an element in every possible way and use values for obtained subsets X’1, X’2… ,X’k to compute the value/solution for X. This means that the values for X’i must have been computed already, so we need to establish an ordering in which masks will be considered. It’s easy to see that the natural ordering will do: go over masks in increasing order of corresponding numbers. Also, We sometimes, start with the empty subset X and we add elements in every possible way and use the values of obtained subsets X’1, X’2… ,X’k to compute the value/solution for X.
 
-### To read more about Bitmasking and DP , click [here](https://www.geeksforgeeks.org/bitmasking-and-dynamic-programming-set-1-count-ways-to-assign-unique-cap-to-every-person/)
+#### To read more about Bitmasking and DP , click [here](https://www.geeksforgeeks.org/bitmasking-and-dynamic-programming-set-1-count-ways-to-assign-unique-cap-to-every-person/)
 
 ---
 
@@ -22,5 +22,5 @@
  
 ### Now, after representing the given number this way we generate the numbers less than the given number and simultaneously calculate using DP, if the number satisfy the given property. We start generating integers having number of digits = 1 and then till number of digits = n. Integers having less number of digits than n can be analyzed by setting the leftmost digits to be zero. 
 
-### To read more about this special problem type [here](https://www.geeksforgeeks.org/digit-dp-introduction/)
-### For hard question practice , click [here](https://codeforces.com/blog/entry/67679)
+#### To read more about this special problem type [here](https://www.geeksforgeeks.org/digit-dp-introduction/)
+#### For hard question practice , click [here](https://codeforces.com/blog/entry/67679)
